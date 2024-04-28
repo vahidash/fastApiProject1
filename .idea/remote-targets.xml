@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="vs@192.168.226.247:22" type="ssh/sftp" uuid="36aae2d3-7d79-4114-8303-39652c0caea2">
+        <config>
+          <option name="projectRootOnTarget" value="/home/vs/fastApiProject1" />
+          <option name="serverName" value="vs@192.168.226.247:22 password" />
+        </config>
+      </target>
+    </targets>
+  </component>
+</project>
